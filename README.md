@@ -28,5 +28,22 @@ The analysis of the election shows that:
   - Diana Degette who recieved 73.8% of the vote and 272,892 votes
   
   ## Challenge Overview
+  The Colorado Board of Elections requested the following tasks be completed in addition to the previous audit that occured
   
+  1. Creat a complete list of Counties from which votes were cast
+  2. Calculate how many votes were cast in each county
+  3. Calculate the percent of votes each county comprised
+  4. Determine which county had the largest vote share.
+ 
   ## Challenge Summary
+  The county level analysis of the election show that:
+  - The counties that participated in the election were:
+   1. Jefferson
+   2. Denver
+   3. Arapahoe
+  - The county results were:
+   1. Jefferson county cast 10.5% of the vote with 38,855 votes
+   2. Denver county cast 82.8% of the vote with 306,055 votes
+   3. Arapahoe county cast 6.7% of the vote with 24,801 votes 
+  - The county that cast the largest share of votes was:
+  - Denver, with 82.8% of the vote with 306,055 votes
